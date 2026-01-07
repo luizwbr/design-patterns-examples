@@ -19,10 +19,9 @@ export class SingletonComponent {
   constructor(private db: DatabaseService) {
     // Get singleton instance info
     this.instanceInfo = this.db.getConnection();
-    this.instanceCount = DatabaseService.getInstanceCount();
     
-    // Demonstrate that multiple injections return the same instance
-    const db2 = new DatabaseService();
+    // In Angular, services with providedIn: 'root' are singletons by default
+    // The instance count demonstrates this - it will always be 1
     this.instanceCount = DatabaseService.getInstanceCount();
   }
 

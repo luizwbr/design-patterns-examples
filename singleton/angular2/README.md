@@ -34,7 +34,7 @@ export class AppComponent {}
 
 ```typescript
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/forms';
+import { BrowserModule } from '@angular/platform-browser';
 import { SingletonComponent } from './singleton/angular2/singleton.component';
 
 @NgModule({
