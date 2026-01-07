@@ -1,0 +1,47 @@
+.container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.query-result {
+  border: 2px solid #4CAF50;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #e8f5e9;
+}
+
+.instance-info {
+  background-color: #fff3e0;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 2px solid #ff9800;
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.query-input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+.query-section, .results-section {
+  margin: 20px 0;
+}

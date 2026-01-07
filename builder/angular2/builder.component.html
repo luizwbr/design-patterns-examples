@@ -1,0 +1,17 @@
+<div class="container">
+  <h1>Builder Pattern</h1>
+  <p>Constructs complex objects step by step.</p>
+  
+  <div class="button-group">
+    <button (click)="buildSimpleHouse()" class="btn">Build Simple House</button>
+    <button (click)="buildLuxuryHouse()" class="btn">Build Luxury House</button>
+    <button (click)="buildCustomHouse()" class="btn">Build Custom House</button>
+  </div>
+
+  <div *ngIf="houses.length > 0" class="houses-section">
+    <h3>Built Houses</h3>
+    <div *ngFor="let house of houses" class="house-item">
+      <p>{{ house.describe() }}</p>
+    </div>
+  </div>
+</div>

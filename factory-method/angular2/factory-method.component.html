@@ -1,0 +1,18 @@
+<div class="container">
+  <h1>Factory Method Pattern</h1>
+  <p>Creates objects without specifying the exact class to create.</p>
+  
+  <div class="button-group">
+    <button (click)="createVehicle('car')" class="btn btn-car">Create Car</button>
+    <button (click)="createVehicle('bike')" class="btn btn-bike">Create Bike</button>
+    <button (click)="createVehicle('truck')" class="btn btn-truck">Create Truck</button>
+  </div>
+
+  <div *ngIf="vehicles.length > 0" class="vehicles-section">
+    <h3>Created Vehicles</h3>
+    <div *ngFor="let vehicle of vehicles; let i = index" class="vehicle-item">
+      <h4>{{ vehicle.type }}</h4>
+      <p>{{ deliveryMessages[i] }}</p>
+    </div>
+  </div>
+</div>
