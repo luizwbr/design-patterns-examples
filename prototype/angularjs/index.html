@@ -65,7 +65,7 @@
     <div ng-if="documents.length > 0">
         <h3>Documents</h3>
         <div ng-repeat="doc in documents" class="document" ng-class="doc.isClone ? 'clone' : 'original'">
-            <h4>{{doc.title}} <span ng-if="doc.isClone">(Clone)</span></h4>
+            <h4>{{doc.title}}<span ng-if="doc.isClone"> (Clone)</span></h4>
             <p>{{doc.content}}</p>
             <button ng-click="cloneDocument(doc)">Clone This Document</button>
         </div>
@@ -103,7 +103,7 @@
                 }
 
                 Document.prototype.clone = function() {
-                    return new Document(this.title + ' (Copy)', this.content, true);
+                    return new Document(this.title, this.content, true);
                 };
 
                 return {

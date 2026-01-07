@@ -60,17 +60,15 @@
 
     <div ng-if="organization" class="organization">
         <h3>Organization Structure</h3>
-        <div ng-include="'employee-template.html'"></div>
+        <div ng-init="employee = organization" ng-include="'employee-template.html'"></div>
     </div>
 
     <!-- Template for displaying employees recursively -->
     <script type="text/ng-template" id="employee-template.html">
-        <div ng-class="organization.isManager ? 'manager' : 'employee'">
-            <strong>{{organization.name}}</strong> - {{organization.position}}
-            <div ng-if="organization.subordinates && organization.subordinates.length > 0" class="subordinates">
-                <div ng-repeat="emp in organization.subordinates">
-                    <div ng-init="organization = emp" ng-include="'employee-template.html'"></div>
-                </div>
+        <div ng-class="employee.isManager ? 'manager' : 'employee'">
+            <strong>{{employee.name}}</strong> - {{employee.position}}
+            <div ng-if="employee.subordinates && employee.subordinates.length > 0" class="subordinates">
+                <div ng-repeat="employee in employee.subordinates" ng-include="'employee-template.html'"></div>
             </div>
         </div>
     </script>

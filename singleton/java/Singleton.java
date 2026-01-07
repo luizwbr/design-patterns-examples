@@ -1,7 +1,7 @@
 // Singleton class: Database
 class Database {
-    // Static instance variable
-    private static Database instance;
+    // Static instance variable (volatile for thread safety)
+    private static volatile Database instance;
     private String connection;
 
     // Private constructor to prevent instantiation
