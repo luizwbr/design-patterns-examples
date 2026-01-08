@@ -1,0 +1,28 @@
+<div class="container">
+  <h1>Observer Pattern</h1>
+  <p>Defines a one-to-many dependency between objects.</p>
+  
+  <div class="weather-controls">
+    <h3>Weather Station Controls</h3>
+    <div class="control-group">
+      <label>Temperature (°C): {{ temperature }}</label>
+      <input type="range" [(ngModel)]="temperature" min="0" max="50" class="slider">
+    </div>
+    <div class="control-group">
+      <label>Humidity (%): {{ humidity }}</label>
+      <input type="range" [(ngModel)]="humidity" min="0" max="100" class="slider">
+    </div>
+    <div class="control-group">
+      <label>Pressure (hPa): {{ pressure }}</label>
+      <input type="range" [(ngModel)]="pressure" min="950" max="1050" class="slider">
+    </div>
+    <button (click)="updateWeather()" class="btn">Update Weather</button>
+  </div>
+
+  <div class="displays-section">
+    <h3>Display Observers</h3>
+    <div *ngFor="let display of displays" class="display-item">
+      <p>{{ display.getData() || display.name + ': Waiting for data...' }}</p>
+    </div>
+  </div>
+</div>

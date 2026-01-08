@@ -1,0 +1,24 @@
+<div class="container">
+  <h1>Prototype Pattern</h1>
+  <p>Creates new objects by cloning existing prototypes.</p>
+  
+  <div class="button-group">
+    <button (click)="cloneReport()" class="btn">Clone Report Template</button>
+    <button (click)="cloneLetter()" class="btn">Clone Letter Template</button>
+  </div>
+
+  <div class="custom-section">
+    <h3>Create Custom Document</h3>
+    <input type="text" [(ngModel)]="customTitle" placeholder="Title" class="input-field">
+    <input type="text" [(ngModel)]="customContent" placeholder="Content" class="input-field">
+    <input type="text" [(ngModel)]="customAuthor" placeholder="Author" class="input-field">
+    <button (click)="createCustomDocument()" class="btn">Create Document</button>
+  </div>
+
+  <div *ngIf="clonedDocuments.length > 0" class="documents-section">
+    <h3>Documents</h3>
+    <div *ngFor="let doc of clonedDocuments" class="document-item">
+      <p>{{ doc.describe() }}</p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,65 @@
+.container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.btn {
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-car {
+  background-color: #2196F3;
+}
+
+.btn-car:hover {
+  background-color: #0b7dda;
+}
+
+.btn-bike {
+  background-color: #4CAF50;
+}
+
+.btn-bike:hover {
+  background-color: #45a049;
+}
+
+.btn-truck {
+  background-color: #ff9800;
+}
+
+.btn-truck:hover {
+  background-color: #e68900;
+}
+
+.button-group {
+  margin: 20px 0;
+}
+
+.vehicles-section {
+  margin-top: 30px;
+}
+
+.vehicle-item {
+  border: 2px solid #ddd;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.vehicle-item h4 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.vehicle-item p {
+  margin: 0;
+  color: #666;
+}

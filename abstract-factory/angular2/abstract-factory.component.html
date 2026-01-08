@@ -1,0 +1,14 @@
+<div class="container">
+  <h1>Abstract Factory Pattern</h1>
+  <p>Creates families of related UI elements for different operating systems.</p>
+  
+  <div class="button-group">
+    <button (click)="createWindowsUI()" class="btn">Create Windows UI</button>
+    <button (click)="createMacUI()" class="btn">Create Mac UI</button>
+  </div>
+
+  <div *ngFor="let element of uiElements" class="ui-element" [ngClass]="element.os">
+    <h3>{{ element.type }} ({{ element.os }})</h3>
+    <p>{{ element.description }}</p>
+  </div>
+</div>

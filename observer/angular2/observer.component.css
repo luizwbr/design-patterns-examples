@@ -1,0 +1,58 @@
+.container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.weather-controls {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.control-group {
+  margin: 15px 0;
+}
+
+.control-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.slider {
+  width: 100%;
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.displays-section {
+  margin-top: 30px;
+}
+
+.display-item {
+  border: 2px solid #2196F3;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #e3f2fd;
+}
+
+.display-item p {
+  margin: 0;
+  font-weight: bold;
+}

@@ -1,0 +1,27 @@
+<div class="container">
+  <h1>Singleton Pattern</h1>
+  <p>Ensures only one instance of the database connection exists.</p>
+  
+  <div class="instance-info">
+    <h3>Database Instance</h3>
+    <p>{{ instanceInfo }}</p>
+    <p><strong>Total Instances Created:</strong> {{ instanceCount }}</p>
+  </div>
+
+  <div class="query-section">
+    <h3>Execute Query</h3>
+    <input 
+      type="text" 
+      [(ngModel)]="queryText" 
+      placeholder="Enter SQL query (e.g., SELECT * FROM users)"
+      class="query-input">
+    <button (click)="executeQuery()" class="btn">Execute Query</button>
+  </div>
+
+  <div *ngIf="queryResults.length > 0" class="results-section">
+    <h3>Query Results</h3>
+    <div *ngFor="let result of queryResults" class="query-result">
+      <p>{{ result }}</p>
+    </div>
+  </div>
+</div>
