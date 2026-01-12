@@ -6,7 +6,6 @@
 [![Issues](https://img.shields.io/github/issues/luizwbr/design-patterns-examples)](.github/ISSUE_TEMPLATE.md)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11714/badge)](https://www.bestpractices.dev/projects/11714)
 
-
 [en]
 A comprehensive collection of design pattern implementations in Go, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+.
 
