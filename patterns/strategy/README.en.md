@@ -1,6 +1,6 @@
-# Strategy Pattern - Angular 2+
+# Strategy Pattern
 
-This example demonstrates the Strategy pattern in Angular 2+ using different payment methods.
+This example demonstrates the Strategy pattern using different payment methods.
 
 ## Description
 

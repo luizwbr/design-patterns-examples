@@ -1,6 +1,6 @@
-# Facade Pattern - Angular 2+
+# Facade Pattern
 
-This example demonstrates the Facade pattern in Angular 2+ using a computer startup system.
+This example demonstrates the Facade pattern using a computer startup system.
 
 ## Description
 
