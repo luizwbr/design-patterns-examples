@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/PULL_REQUEST_TEMPLATE.md)
 [![Issues](https://img.shields.io/github/issues/luizwbr/design-patterns-examples)](.github/ISSUE_TEMPLATE.md)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11714/badge)](https://www.bestpractices.dev/projects/11714)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=shield&issueType=license)](https://app.fossa.io/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_shield&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_shield)
 
 [en]
 A comprehensive collection of design pattern implementations in Go, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+.
@@ -152,14 +152,17 @@ This project is open source and available for educational purposes.
 [pt-br]
 Este projeto é de código aberto e está disponível para fins educacionais.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_large)
+
 ## 🤝 Contributing / Contribuindo
 
 [en]
 Feel free to contribute by adding more design patterns, improving existing implementations, or adding new language translations!
 
 [pt-br]
-Sinta-se à vontade para contribuir adicionando mais padrões de projeto, melhorando implementações existentes ou adicionando novas traduções de idiomas!
 
+Sinta-se à vontade para contribuir adicionando mais padrões de projeto, melhorando implementações existentes ou adicionando novas traduções de idiomas!
 
 ## FOSSA License
 
