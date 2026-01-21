@@ -1,6 +1,6 @@
-# State Pattern - Angular 2+
+# State Pattern
 
-This example demonstrates the State pattern in Angular 2+ using a document workflow with different states (Draft, Review, Published).
+This example demonstrates the State pattern using a document workflow with different states (Draft, Review, Published).
 
 ## Description
 

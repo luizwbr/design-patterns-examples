@@ -161,4 +161,9 @@ Este projeto é de código aberto e está disponível para fins educacionais.
 Feel free to contribute by adding more design patterns, improving existing implementations, or adding new language translations!
 
 [pt-br]
+
 Sinta-se à vontade para contribuir adicionando mais padrões de projeto, melhorando implementações existentes ou adicionando novas traduções de idiomas!
+
+## FOSSA License
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=large&issueType=license)](https://app.fossa.io/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_large&issueType=license)

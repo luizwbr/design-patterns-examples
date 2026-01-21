@@ -1,6 +1,6 @@
-# Command Pattern - Angular 2+
+# Command Pattern
 
-This example demonstrates the Command pattern in Angular 2+ using a remote control for a light.
+This example demonstrates the Command pattern using a remote control for a light.
 
 ## Description
 
