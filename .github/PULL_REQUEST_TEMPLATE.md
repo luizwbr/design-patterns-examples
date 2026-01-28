@@ -48,11 +48,25 @@
 - [ ] Documentation is provided in Portuguese (`pt-br/` folder)
 - [ ] README files include clear explanations and usage examples
 - [ ] Comments in code are in English
+- [ ] **All documented examples have been tested and work with current code**
+- [ ] **Documentation changes reflect actual code behavior**
+- [ ] **No documentation was made outdated by these changes**
+- [ ] If this PR changes documented behavior, documentation was updated accordingly
 
 ### Consistency
 - [ ] Conceptual consistency is maintained across all language implementations
 - [ ] Pattern logic is recognizable across different languages
 - [ ] Follows existing repository structure
+
+### Accessibility (for React/Angular components)
+- [ ] Uses semantic HTML elements (button, nav, main, etc.)
+- [ ] Includes ARIA labels where appropriate
+- [ ] Interactive elements are keyboard accessible
+- [ ] Sufficient color contrast (if styling included)
+- [ ] Descriptive link text in documentation
+- [ ] N/A - This PR does not include web components
+
+See [Accessibility Guidelines](../ACCESSIBILITY.md) for details.
 
 ## Testing
 

@@ -12,6 +12,32 @@ A comprehensive collection of design pattern implementations in Go, React.js, PH
 
 This project was inspired by this awesome website: <a href="https://refactoring.guru/pt-br/design-patterns/catalog" target="_blank">Refactoring Guru</a>.
 
+## 🏆 Achievements & Recognition
+
+This project has achieved the following recognitions:
+
+- **[OpenSSF Best Practices Badge](https://www.bestpractices.dev/projects/11714)** - Passing Level (2024)
+  - Demonstrates commitment to security, quality, and best practices
+  - Working towards Gold level certification
+  
+- **Open Source License** - MIT License for maximum accessibility and reuse
+
+- **Continuous Integration** - Automated testing across 4 languages for 22+ patterns
+
+- **Multilingual** - Documentation and implementations in 7 programming languages
+
+**Note**: All achievements are displayed within 48 hours of public recognition per our [documentation policy](DOCUMENTATION_POLICY.md#achievement-recognition). See [ACHIEVEMENTS.md](ACHIEVEMENTS.md) for complete achievement history.
+
+## ⚡ Quick Start
+
+**New to this project?** Get started in 5 minutes! 👉 [**QUICKSTART.md**](QUICKSTART.md)
+
+Learn how to:
+- 🚀 Run your first design pattern example
+- 📚 Choose patterns to learn
+- 🛠️ Set up your development environment
+- 💡 Understand when to use each pattern
+
 ## 🤝 How to Contribute / Como Contribuir
 
 [en]
@@ -22,6 +48,17 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started. It in
 - Coding standards and conventions for each language
 - How to submit pull requests
 - Pattern implementation guidelines
+- **Developer Certificate of Origin (DCO)** requirements
+
+**Important**: All contributions must include a DCO sign-off. See [DCO.md](DCO.md) for details.
+
+For information about project governance, decision-making, and key roles, see [GOVERNANCE.md](GOVERNANCE.md) and [ROLES.md](ROLES.md). For project continuity and succession planning, see [ACCESS_CONTINUITY.md](ACCESS_CONTINUITY.md).
+
+**Project Roadmap**: See [ROADMAP.md](ROADMAP.md) for our plans for 2026-2027, including what we will and won't do.
+
+**Documentation Policy**: We maintain [current, accurate documentation](DOCUMENTATION_POLICY.md) consistent with the project's current state.
+
+**Accessibility**: We strive to follow [accessibility best practices](ACCESSIBILITY.md) to ensure broad participation and use.
 
 [pt-br]
 Damos as boas-vindas a contribuições da comunidade! Seja para adicionar um novo padrão de projeto, melhorar implementações existentes, adicionar novas traduções de idiomas ou corrigir bugs, sua ajuda é apreciada.
@@ -31,6 +68,17 @@ Por favor, leia nosso [Guia de Contribuição](CONTRIBUTING.md) para começar. E
 - Padrões e convenções de código para cada linguagem
 - Como enviar pull requests
 - Diretrizes de implementação de padrões
+- Requisitos do **Developer Certificate of Origin (DCO)**
+
+**Importante**: Todas as contribuições devem incluir um sign-off DCO. Veja [DCO.md](DCO.md) para detalhes.
+
+Para informações sobre governança do projeto, tomada de decisões e funções principais, veja [GOVERNANCE.md](GOVERNANCE.md) e [ROLES.md](ROLES.md). Para continuidade do projeto e planejamento de sucessão, veja [ACCESS_CONTINUITY.md](ACCESS_CONTINUITY.md).
+
+**Roteiro do Projeto**: Veja [ROADMAP.md](ROADMAP.md) para nossos planos 2026-2027, incluindo o que faremos e não faremos.
+
+**Política de Documentação**: Mantemos [documentação atual e precisa](DOCUMENTATION_POLICY.md) consistente com o estado atual do projeto.
+
+**Acessibilidade**: Seguimos [boas práticas de acessibilidade](ACCESSIBILITY.md) para garantir ampla participação e uso.
 
 ---
 
@@ -68,6 +116,32 @@ Encontrou um bug ou problema? Agradecemos sua ajuda para melhorar este projeto!
 Uma coleção abrangente de implementações de padrões de projeto em Go, React.js, PHP, TypeScript, Java, AngularJS e Angular 2+.
 
 Este projeto foi inspirado por este site top das galáxias: <a href="https://refactoring.guru/pt-br/design-patterns/catalog" target="_blank">Refactoring Guru</a>.
+
+## 🏆 Conquistas e Reconhecimentos
+
+Este projeto alcançou os seguintes reconhecimentos:
+
+- **[Selo OpenSSF Best Practices](https://www.bestpractices.dev/projects/11714)** - Nível Passing (2024)
+  - Demonstra compromisso com segurança, qualidade e boas práticas
+  - Trabalhando para certificação nível Gold
+  
+- **Licença Open Source** - Licença MIT para máxima acessibilidade e reutilização
+
+- **Integração Contínua** - Testes automatizados em 4 linguagens para 22+ padrões
+
+- **Multilíngue** - Documentação e implementações em 7 linguagens de programação
+
+**Nota**: Todas as conquistas são exibidas em até 48 horas após reconhecimento público, conforme nossa [política de documentação](DOCUMENTATION_POLICY.md#achievement-recognition). Veja [ACHIEVEMENTS.md](ACHIEVEMENTS.md) para histórico completo de conquistas.
+
+## ⚡ Início Rápido
+
+**Novo neste projeto?** Comece em 5 minutos! 👉 [**QUICKSTART.md**](QUICKSTART.md)
+
+Aprenda como:
+- 🚀 Executar seu primeiro exemplo de padrão de projeto
+- 📚 Escolher padrões para aprender
+- 🛠️ Configurar seu ambiente de desenvolvimento
+- 💡 Entender quando usar cada padrão
 
 ---
 

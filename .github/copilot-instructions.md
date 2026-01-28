@@ -80,17 +80,20 @@ Documentation is organized in language-specific folders (`en/` for English, `pt-
 - Export components as default exports
 - Use descriptive component and prop names
 - Include className attributes for potential styling
+- Follow accessibility best practices (semantic HTML, ARIA labels, keyboard navigation)
 
 ### AngularJS
 - Follow AngularJS 1.x conventions
 - Use controllers and services appropriately
 - Keep templates clean and readable
+- Consider accessibility in template structure
 
 ### Angular 2+
 - Use standalone components (Angular 14+)
 - Follow Angular style guide
 - Use proper TypeScript typing
 - Implement lifecycle hooks when needed
+- Follow accessibility best practices (semantic HTML, ARIA attributes)
 
 ## Pattern Implementation Guidelines
 
