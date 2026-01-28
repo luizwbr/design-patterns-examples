@@ -4,11 +4,41 @@
 <!-- Please select one by placing an 'x' in the brackets -->
 - [ ] Bug Report
 - [ ] Feature Request
+- [ ] Documentation Issue (outdated, incorrect, or inconsistent)
 - [ ] Documentation Improvement
 - [ ] New Pattern Implementation
 - [ ] Pattern Implementation Bug
 - [ ] Translation Request
 - [ ] Other
+
+---
+
+## For Documentation Issues
+
+**Please use this for outdated, incorrect, or inconsistent documentation**
+
+### What's Wrong?
+<!-- Describe the documentation issue -->
+
+### Location
+- **File(s):** <!-- e.g., README.md, patterns/singleton/README.en.md -->
+- **Section/Line:** <!-- If known -->
+- **URL:** <!-- Link to the documentation if viewing on GitHub -->
+
+### Current Content
+<!-- What the documentation currently says (quote or describe) -->
+
+### Why It's Incorrect
+<!-- Explain why this is wrong, outdated, or inconsistent -->
+
+### Suggested Fix
+<!-- What should it say instead? -->
+
+### Priority
+- [ ] Critical - Could cause user harm or major confusion
+- [ ] High - Incorrect core feature documentation
+- [ ] Medium - Outdated but not misleading
+- [ ] Low - Minor typo or inconsistency
 
 ---
 
