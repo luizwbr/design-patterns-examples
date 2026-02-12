@@ -318,76 +318,28 @@ body {
     background: var(--card-bg);
 }
 
-/* DeviantArt Section */
-.deviantart-section {
-    padding: 5rem 0;
-    background: linear-gradient(135deg, #05cc47 0%, #0da574 100%);
-    color: white;
-}
-
-.deviantart-content {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.deviantart-card {
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    padding: 3rem;
-    border-radius: 1rem;
-    text-align: center;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    transition: all 0.3s;
-}
-
-.deviantart-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
-    background: rgba(255, 255, 255, 0.15);
-}
-
-.deviantart-icon {
-    font-size: 4rem;
-    margin-bottom: 1.5rem;
-}
-
-.deviantart-card h3 {
-    font-size: 2rem;
-    margin-bottom: 1.5rem;
-    color: white;
-}
-
-.deviantart-card p {
-    font-size: 1.125rem;
-    line-height: 1.8;
-    margin-bottom: 2rem;
-    color: rgba(255, 255, 255, 0.95);
-}
-
-.deviantart-card .btn-primary {
-    background: white;
-    color: #05cc47;
-    font-size: 1.125rem;
-    padding: 1rem 2.5rem;
-}
-
-.deviantart-card .btn-primary:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
-/* Newsletter Section */
+/* Promotional Sections (DeviantArt & Newsletter) */
+.deviantart-section,
 .newsletter-section {
     padding: 5rem 0;
-    background: linear-gradient(135deg, #0077b5 0%, #005582 100%);
     color: white;
 }
 
+.deviantart-section {
+    background: linear-gradient(135deg, #05cc47 0%, #0da574 100%);
+}
+
+.newsletter-section {
+    background: linear-gradient(135deg, #0077b5 0%, #005582 100%);
+}
+
+.deviantart-content,
 .newsletter-content {
     max-width: 800px;
     margin: 0 auto;
 }
 
+.deviantart-card,
 .newsletter-card {
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
@@ -398,23 +350,27 @@ body {
     transition: all 0.3s;
 }
 
+.deviantart-card:hover,
 .newsletter-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
     background: rgba(255, 255, 255, 0.15);
 }
 
+.deviantart-icon,
 .newsletter-icon {
     font-size: 4rem;
     margin-bottom: 1.5rem;
 }
 
+.deviantart-card h3,
 .newsletter-card h3 {
     font-size: 2rem;
     margin-bottom: 1.5rem;
     color: white;
 }
 
+.deviantart-card p,
 .newsletter-card p {
     font-size: 1.125rem;
     line-height: 1.8;
@@ -422,13 +378,22 @@ body {
     color: rgba(255, 255, 255, 0.95);
 }
 
+.deviantart-card .btn-primary,
 .newsletter-card .btn-primary {
     background: white;
-    color: #0077b5;
     font-size: 1.125rem;
     padding: 1rem 2.5rem;
 }
 
+.deviantart-card .btn-primary {
+    color: #05cc47;
+}
+
+.newsletter-card .btn-primary {
+    color: #0077b5;
+}
+
+.deviantart-card .btn-primary:hover,
 .newsletter-card .btn-primary:hover {
     transform: translateY(-2px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
