@@ -121,7 +121,7 @@ For Windows users:
 ### Script Not Found
 ```bash
 # Make sure you're in the repository root
-cd /path/to/design-patterns-examples
+cd /path/to/awesome-design-patterns-examples
 
 # Run with explicit bash
 bash scripts/test-all-patterns.sh

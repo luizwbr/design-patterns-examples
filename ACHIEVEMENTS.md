@@ -1,6 +1,6 @@
 # Project Achievements and Recognition
 
-This document tracks the achievements and recognition received by the Design Patterns Examples project.
+This document tracks the achievements and recognition received by the Awesome Design Patterns Examples project.
 
 **Policy**: All achievements are displayed on the [README.md](README.md) front page within 48 hours of public recognition, per our [Documentation Policy](DOCUMENTATION_POLICY.md#achievement-recognition).
 
@@ -27,8 +27,8 @@ This document tracks the achievements and recognition received by the Design Pat
 ### Continuous Integration
 
 - **Date**: Ongoing since 2024
-- **Link**: [GitHub Actions](https://github.com/luizwbr/design-patterns-examples/actions)
-- **Badge**: [![Tests](https://github.com/luizwbr/design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)](https://github.com/luizwbr/design-patterns-examples/actions)
+- **Link**: [GitHub Actions](https://github.com/luizwbr/awesome-design-patterns-examples/actions)
+- **Badge**: [![Tests](https://github.com/luizwbr/awesome-design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)](https://github.com/luizwbr/awesome-design-patterns-examples/actions)
 - **Significance**: Automated testing across 4 languages for 22+ design patterns
 - **Added to README**: Yes
 

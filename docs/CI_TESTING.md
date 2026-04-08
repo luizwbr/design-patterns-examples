@@ -164,7 +164,7 @@ All tests passed! ✓
 Add this badge to your README to show CI status:
 
 ```markdown
-![Tests](https://github.com/YOUR_USERNAME/design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)
+![Tests](https://github.com/YOUR_USERNAME/awesome-design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)
 ```
 
 ## Troubleshooting

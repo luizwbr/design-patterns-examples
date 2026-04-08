@@ -1,10 +1,10 @@
-# Design Patterns Examples / Exemplos de Padrões de Projeto
+# Awesome Design Patterns Examples / Exemplos de Padrões de Projeto
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Tests](https://github.com/luizwbr/design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)](https://github.com/luizwbr/design-patterns-examples/actions)
+[![Tests](https://github.com/luizwbr/awesome-design-patterns-examples/workflows/Run%20Pattern%20Tests/badge.svg)](https://github.com/luizwbr/awesome-design-patterns-examples/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/PULL_REQUEST_TEMPLATE.md)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11714/badge)](https://www.bestpractices.dev/projects/11714)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fawesome-design-patterns-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fawesome-design-patterns-examples?ref=badge_shield)
 
 [en] All 23 Gang of Four design patterns implemented in **8 languages**: Go · Python · TypeScript · Java · PHP · React.js · AngularJS · Angular 2+.  
 [pt-br] Todos os 23 padrões de projeto GoF implementados em **8 linguagens**: Go · Python · TypeScript · Java · PHP · React.js · AngularJS · Angular 2+.
@@ -17,8 +17,8 @@ Inspired by / Inspirado por: <a href="https://refactoring.guru/design-patterns/c
 
 ```bash
 # Clone the repo
-git clone https://github.com/luizwbr/design-patterns-examples.git
-cd design-patterns-examples
+git clone https://github.com/luizwbr/awesome-design-patterns-examples.git
+cd awesome-design-patterns-examples
 
 # Pick a pattern and a language, then run it:
 
@@ -123,4 +123,4 @@ patterns/
 
 MIT — see [LICENSE](LICENSE).
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fdesign-patterns-examples?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fluizwbr%2Fawesome-design-patterns-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fluizwbr%2Fawesome-design-patterns-examples?ref=badge_large)

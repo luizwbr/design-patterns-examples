@@ -51,7 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - YYYY-MM-DD
 
 ### Added
-- Initial release of Design Patterns Examples repository
+- Initial release of Awesome Design Patterns Examples repository
 - Comprehensive multilingual design pattern implementations
 - Educational focus with clear, practical examples
 

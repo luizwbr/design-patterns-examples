@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document defines the governance model for the Design Patterns Examples project, including decision-making processes, key roles, and responsibilities.
+This document defines the governance model for the Awesome Design Patterns Examples project, including decision-making processes, key roles, and responsibilities.
 
 **For detailed role definitions and current role holders**, see [ROLES.md](ROLES.md).
 

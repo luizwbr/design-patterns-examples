@@ -2,7 +2,7 @@
 
 ## Overview
 
-This roadmap outlines the Design Patterns Examples project's plans for 2026 and beyond. It describes what we intend to do, what we don't intend to do, and our priorities for the next 12-24 months.
+This roadmap outlines the Awesome Design Patterns Examples project's plans for 2026 and beyond. It describes what we intend to do, what we don't intend to do, and our priorities for the next 12-24 months.
 
 **Current Version**: 1.0  
 **Last Updated**: January 28, 2026  

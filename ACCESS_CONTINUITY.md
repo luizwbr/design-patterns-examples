@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document ensures the Design Patterns Examples project can continue with minimal interruption if the current Project Lead or any key contributor becomes unavailable, dies, is incapacitated, or is unwilling to continue support.
+This document ensures the Awesome Design Patterns Examples project can continue with minimal interruption if the current Project Lead or any key contributor becomes unavailable, dies, is incapacitated, or is unwilling to continue support.
 
 ## Bus Factor
 
@@ -60,7 +60,7 @@ The project MUST be able to, within **one week** of confirmation of loss of supp
 ### 1. GitHub Repository Access
 
 #### Current State
-- **Repository**: [luizwbr/design-patterns-examples](https://github.com/luizwbr/design-patterns-examples)
+- **Repository**: [luizwbr/awesome-design-patterns-examples](https://github.com/luizwbr/awesome-design-patterns-examples)
 - **Ownership**: GitHub account @luizwbr
 - **Visibility**: Public repository (allows community forks)
 - **License**: MIT License (allows anyone to fork and continue)

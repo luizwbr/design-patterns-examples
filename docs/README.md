@@ -1,12 +1,12 @@
 # README for GitHub Pages Website
 
-This directory contains the GitHub Pages website for the Design Patterns Examples project.
+This directory contains the GitHub Pages website for the Awesome Design Patterns Examples project.
 
 ## 🌐 Live Website
 
 The website is automatically deployed to GitHub Pages whenever changes are pushed to the main/master branch.
 
-Visit: `https://luizwbr.github.io/design-patterns-examples/`
+Visit: `https://luizwbr.github.io/awesome-design-patterns-examples/`
 
 ## 📁 Structure
 
@@ -108,4 +108,4 @@ To contribute to the website:
 
 ## 📄 License
 
-This website is part of the Design Patterns Examples project and is licensed under the MIT License.
+This website is part of the Awesome Design Patterns Examples project and is licensed under the MIT License.

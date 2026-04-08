@@ -1,6 +1,6 @@
 ## Compliance Statement
 
-**The Design Patterns Examples project commits to keeping documentation consistent with the current version of the project.**
+**The Awesome Design Patterns Examples project commits to keeping documentation consistent with the current version of the project.**
 
 ### Current Compliance Status
 
@@ -38,7 +38,7 @@
 
 ## Purpose
 
-This document defines how the Design Patterns Examples project maintains documentation currency and consistency with the current version of the project.
+This document defines how the Awesome Design Patterns Examples project maintains documentation currency and consistency with the current version of the project.
 
 **Commitment**: Documentation MUST be kept consistent with the current state of the project. Any known documentation defects making it inconsistent MUST be tracked and fixed.
 

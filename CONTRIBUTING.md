@@ -1,4 +1,4 @@
-# Contributing to Design Patterns Examples
+# Contributing to Awesome Design Patterns Examples
 
 Thank you for your interest in contributing to this design patterns educational repository! This document provides guidelines for contributing to the project.
 

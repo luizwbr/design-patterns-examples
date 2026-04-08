@@ -1,6 +1,6 @@
 # Project Roles and Responsibilities
 
-This document clearly defines the key roles in the Design Patterns Examples project, their responsibilities, and who currently holds each role.
+This document clearly defines the key roles in the Awesome Design Patterns Examples project, their responsibilities, and who currently holds each role.
 
 ## Current Role Assignments
 
@@ -15,7 +15,7 @@ This document clearly defines the key roles in the Design Patterns Examples proj
 
 ### Contributors
 - **All community members** who have submitted accepted pull requests or contributions
-- **View all contributors**: [GitHub Contributors Page](https://github.com/luizwbr/design-patterns-examples/graphs/contributors)
+- **View all contributors**: [GitHub Contributors Page](https://github.com/luizwbr/awesome-design-patterns-examples/graphs/contributors)
 
 ---
 

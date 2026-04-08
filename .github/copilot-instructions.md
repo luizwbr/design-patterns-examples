@@ -1,4 +1,4 @@
-# Copilot Instructions for Design Patterns Examples
+# Copilot Instructions for Awesome Design Patterns Examples
 
 ## Repository Overview
 

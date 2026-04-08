@@ -1,5 +1,5 @@
 # Jekyll configuration for GitHub Pages
-title: Design Patterns Examples
+title: Awesome Design Patterns Examples
 description: A comprehensive collection of design pattern implementations in Go, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+
 url: "" # Will be set by GitHub Pages
 baseurl: "" # Will be set by GitHub Pages
