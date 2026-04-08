@@ -2,7 +2,7 @@
 
 ## 🔒 Reporting Security Vulnerabilities
 
-The Design Patterns Examples project takes security seriously. We appreciate your efforts to responsibly disclose any security vulnerabilities you find.
+The Awesome Design Patterns Examples project takes security seriously. We appreciate your efforts to responsibly disclose any security vulnerabilities you find.
 
 ### How to Report a Security Vulnerability
 

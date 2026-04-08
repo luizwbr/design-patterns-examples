@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Welcome to Design Patterns Examples! This guide will help you quickly start learning and using design patterns with real code examples.
+Welcome to Awesome Design Patterns Examples! This guide will help you quickly start learning and using design patterns with real code examples.
 
 ## ⚡ 5-Minute Quick Start
 
@@ -28,8 +28,8 @@ Let's try the **Singleton pattern** in Go:
 
 ```bash
 # Clone the repository
-git clone https://github.com/luizwbr/design-patterns-examples.git
-cd design-patterns-examples
+git clone https://github.com/luizwbr/awesome-design-patterns-examples.git
+cd awesome-design-patterns-examples
 
 # Navigate to Singleton pattern in Go
 cd patterns/singleton/go
@@ -216,7 +216,7 @@ npm -v
 ### Key Directories
 
 ```
-design-patterns-examples/
+awesome-design-patterns-examples/
 ├── patterns/           # All 23 pattern implementations
 │   ├── singleton/     # Example pattern
 │   │   ├── go/
@@ -284,7 +284,7 @@ Pick a pattern and:
 
 ### Get Help
 
-- ❓ Open an [issue](https://github.com/luizwbr/design-patterns-examples/issues) for questions
+- ❓ Open an [issue](https://github.com/luizwbr/awesome-design-patterns-examples/issues) for questions
 - 💬 Check existing issues for common problems
 - 📧 Review [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community guidelines
 
@@ -296,8 +296,8 @@ Here's a typical learning session:
 
 ```bash
 # 1. Clone the repo (one time)
-git clone https://github.com/luizwbr/design-patterns-examples.git
-cd design-patterns-examples
+git clone https://github.com/luizwbr/awesome-design-patterns-examples.git
+cd awesome-design-patterns-examples
 
 # 2. Pick a pattern to learn today
 cd patterns/observer
@@ -381,7 +381,7 @@ ls patterns/singleton  # Verify pattern exists
 
 ### Still stuck?
 
-Open an issue: [Create Issue](https://github.com/luizwbr/design-patterns-examples/issues/new)
+Open an issue: [Create Issue](https://github.com/luizwbr/awesome-design-patterns-examples/issues/new)
 
 ---
 

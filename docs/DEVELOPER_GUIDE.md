@@ -90,7 +90,7 @@ Before submitting your pattern implementation:
 
 - 📖 Read the [CI Testing Documentation](../docs/CI_TESTING.md)
 - 📖 Check [Contributing Guidelines](../CONTRIBUTING.md)
-- 🐛 [Report an issue](https://github.com/luizwbr/design-patterns-examples/issues/new)
+- 🐛 [Report an issue](https://github.com/luizwbr/awesome-design-patterns-examples/issues/new)
 - 💬 Ask questions in pull request comments
 
 ## Quick Reference

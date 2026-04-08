@@ -1,4 +1,4 @@
-# Design Patterns Examples
+# Awesome Design Patterns Examples
 
 A comprehensive collection of design pattern implementations in Go, Python, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+.
 

@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-The Design Patterns Examples project strives to follow accessibility best practices so that persons with disabilities can participate in the project and use the project results where it is reasonable to do so.
+The Awesome Design Patterns Examples project strives to follow accessibility best practices so that persons with disabilities can participate in the project and use the project results where it is reasonable to do so.
 
 **Status**: 🟡 In Progress - Actively working to improve accessibility
 
