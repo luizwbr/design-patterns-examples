@@ -13,6 +13,11 @@ build/
 # Java compiled classes
 *.class
 
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
 # IDE files
 .vscode/
 .idea/
