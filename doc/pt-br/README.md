@@ -1,14 +1,15 @@
 # Exemplos de Padrões de Projeto
 
-Uma coleção abrangente de implementações de padrões de projeto em Go, React.js, PHP, TypeScript, Java, AngularJS e Angular 2+.
+Uma coleção abrangente de implementações de padrões de projeto em Go, Python, React.js, PHP, TypeScript, Java, AngularJS e Angular 2+.
 
 ## 📁 Estrutura do Repositório
 
-Cada padrão de projeto está organizado em seu próprio diretório com implementações em sete linguagens de programação:
+Cada padrão de projeto está organizado em seu próprio diretório com implementações em oito linguagens de programação:
 
 ```
 nome-do-padrao/
 ├── go/
+├── python/
 ├── reactjs/
 ├── php/
 ├── typescript/
@@ -64,6 +65,12 @@ import FactoryMethodExample from './factory-method/reactjs/FactoryMethod.jsx';
 function App() {
   return <FactoryMethodExample />;
 }
+```
+
+### Python
+```bash
+cd factory-method/python
+python FactoryMethod.py
 ```
 
 ### PHP
@@ -175,7 +182,8 @@ Separa algoritmos dos objetos nos quais eles operam. Exemplo: Visitante de forma
 
 ## 🛠️ Tecnologias
 
-- **Go** - versão 1.16+
+- **Go** - versão 1.21+
+- **Python** - versão 3.10+
 - **React.js** - versão 17+
 - **PHP** - versão 7.4+
 - **TypeScript** - versão 4.0+

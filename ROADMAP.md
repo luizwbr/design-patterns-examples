@@ -105,7 +105,7 @@ This roadmap outlines the Design Patterns Examples project's plans for 2026 and 
 ### 2027 Goals (Looking Ahead)
 
 #### Potential Additions
-- [ ] Add 8th language (community vote: Python, Rust, or C++)
+- [ ] Add 9th language (community vote: Rust, C++, or C#)
 - [ ] Create interactive coding exercises
 - [ ] Develop certification/learning path
 - [ ] Mobile app for pattern reference
@@ -128,14 +128,13 @@ To maintain focus and quality, we explicitly commit to **NOT** doing the followi
 ### ❌ Out of Scope - Language Support
 
 **Will NOT add these languages** (at least not in 2026-2027):
-- Python (focus on existing 7 languages first)
 - Rust (too specialized for educational focus)
 - C++ (too complex for beginners)
 - C# (overlap with Java/TypeScript)
 - Ruby, Perl, Scala (limited demand)
 - Esoteric or niche languages
 
-**Rationale**: Maintaining 7 languages is already significant effort. Quality across existing languages takes priority over breadth.
+**Rationale**: Maintaining 8 languages is already significant effort. Quality across existing languages takes priority over breadth.
 
 ### ❌ Out of Scope - Pattern Coverage
 
@@ -198,7 +197,7 @@ To maintain focus and quality, we explicitly commit to **NOT** doing the followi
 - 🐛 90%+ of issues addressed within 30 days
 
 **Quality Metrics**:
-- ✅ All 23 patterns implemented in all 7 languages
+- ✅ All 23 patterns implemented in all 8 languages
 - ✅ 100% of patterns have automated tests
 - ✅ All documentation reviewed and updated
 - ✅ OpenSSF Best Practices Gold badge achieved

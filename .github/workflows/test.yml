@@ -233,10 +233,61 @@ jobs:
             echo "⚠ No PHP files found for ${{ matrix.pattern }}"
           fi
 
+  test-python:
+    name: Test Python Examples
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        pattern:
+          - abstract-factory
+          - adapter
+          - bridge
+          - builder
+          - chain-of-responsibility
+          - command
+          - composite
+          - decorator
+          - facade
+          - factory-method
+          - flyweight
+          - iterator
+          - mediator
+          - memento
+          - observer
+          - prototype
+          - proxy
+          - singleton
+          - state
+          - strategy
+          - template-method
+          - visitor
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test ${{ matrix.pattern }} (Python)
+        working-directory: patterns/${{ matrix.pattern }}/python
+        run: |
+          if ls *.py 1> /dev/null 2>&1; then
+            echo "Testing ${{ matrix.pattern }} pattern..."
+            for file in *.py; do
+              echo "Running $file..."
+              python "$file"
+            done
+            echo "✓ ${{ matrix.pattern }} pattern executed successfully"
+          else
+            echo "⚠ No Python files found for ${{ matrix.pattern }}"
+          fi
+
   test-summary:
     name: Test Summary
     runs-on: ubuntu-latest
-    needs: [test-go, test-typescript, test-java, test-php]
+    needs: [test-go, test-typescript, test-java, test-php, test-python]
     if: always()
     steps:
       - name: Check test results

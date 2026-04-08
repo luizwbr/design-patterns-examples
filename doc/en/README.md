@@ -1,14 +1,15 @@
 # Design Patterns Examples
 
-A comprehensive collection of design pattern implementations in Go, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+.
+A comprehensive collection of design pattern implementations in Go, Python, React.js, PHP, TypeScript, Java, AngularJS, and Angular 2+.
 
 ## 📁 Repository Structure
 
-Each design pattern is organized in its own directory with implementations in seven programming languages:
+Each design pattern is organized in its own directory with implementations in eight programming languages:
 
 ```
 design-pattern-name/
 ├── go/
+├── python/
 ├── reactjs/
 ├── php/
 ├── typescript/
@@ -64,6 +65,12 @@ import FactoryMethodExample from './factory-method/reactjs/FactoryMethod.jsx';
 function App() {
   return <FactoryMethodExample />;
 }
+```
+
+### Python
+```bash
+cd factory-method/python
+python FactoryMethod.py
 ```
 
 ### PHP
@@ -175,7 +182,8 @@ Separates algorithms from the objects they operate on. Example: Shape visitor th
 
 ## 🛠️ Technologies
 
-- **Go** - version 1.16+
+- **Go** - version 1.21+
+- **Python** - version 3.10+
 - **React.js** - version 17+
 - **PHP** - version 7.4+
 - **TypeScript** - version 4.0+
